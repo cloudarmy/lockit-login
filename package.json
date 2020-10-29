@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "couch-pwd": "github:zemirco/couch-pwd",
-    "lockit-utils": "^0.5.1",
+    "lockit-utils": "github:cloudarmy/lockit-utilities",
     "moment": "^2.8.1",
     "ms": "^2.0.0"
   },
